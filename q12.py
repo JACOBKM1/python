@@ -1,0 +1,5 @@
+x=input("enter the colurs")
+y=x.split(",")
+print(y)
+print(y[0])
+print(y[1])
